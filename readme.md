@@ -6,9 +6,3 @@ I am learning git
 # Jain is  learning
 
 # commit 1
-
-# commit 2
-
-# commit 3
-
-# commit 4
